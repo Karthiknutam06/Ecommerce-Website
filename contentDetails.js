@@ -119,8 +119,6 @@ function dynamicContentDetails(ob)
 
 
 
-// BACKEND CALLING
-
 let httpRequest = new XMLHttpRequest()
 {
     httpRequest.onreadystatechange = function()
